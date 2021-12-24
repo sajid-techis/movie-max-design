@@ -187,6 +187,9 @@ header img {
 /**********************
 ********Coming soon
 ***********************/
+.coming-soon {
+  margin: 30px 10px;
+}
 .coming-soon .grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
